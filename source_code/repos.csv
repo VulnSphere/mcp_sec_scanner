@@ -1,0 +1,4 @@
+url,username,repo_name,exists_online,language,success,action
+https://github.com/0xtotaylor/mcp-server-skyfire,0xtotaylor,mcp-server-skyfire,False,,False,skip
+https://github.com/0xBruno/MCPExec,0xBruno,MCPExec,True,Python,True,clone
+https://github.com/0xshellming/mcp-summarizer,0xshellming,mcp-summarizer,True,JavaScript,True,clone
